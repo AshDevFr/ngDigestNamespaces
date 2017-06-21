@@ -1,0 +1,19 @@
+{
+  "name": "ng-digest-namespaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/ngDigestNamespaces.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/webpack --colors --display-error-details --hide-modules"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.4.0",
+    "webpack": "^2.5.0"
+  }
+}
